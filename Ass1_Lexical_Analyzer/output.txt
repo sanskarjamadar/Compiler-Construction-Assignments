@@ -1,0 +1,17 @@
+Line no.  Token no.      Token                    Lexeme                   
+1         0              Identifier               include                  
+1         1              Operator                 <                        
+1         2              Identifier               stdio                    
+1         3              Identifier               h                        
+1         4              Operator                 >                        
+2         5              Keyword                  void                     
+2         6              Keyword                  main                     
+2         7              Opening bracket          (                        
+2         8              Closing bracket          )                        
+3         9              Opening brace            {                        
+4         10             Identifier               printf                   
+4         11             Opening bracket          (                        
+4         12             Literal                  "Welcome to COEP Tech!"  
+4         13             Closing bracket          )                        
+4         14             Semicolon                ;                        
+5         15             Closing brace            }                        
